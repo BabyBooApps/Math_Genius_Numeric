@@ -1,0 +1,14 @@
+Font Name : Cubano
+
+
+Headding font size : 150
+
+greater than headding : 120
+
+Addition display font size : 200
+
+answer font size : 150
+
+Pattern ? size : 200
+
+
