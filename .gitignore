@@ -1,12 +1,12 @@
 # Ignore Visual Studio Code settings
-.vscode/
+#.vscode/
 
 *.aab
 *.apk
 # Ignore Visual Studio files
-*.suo
-*.lock
-*.ide
+#*.suo
+#*.lock
+#*.ide
 
 # Ignore Unity files
 #*.tga
@@ -25,12 +25,12 @@
 #*.rtf
 
 # Ignore generic 3D model files
-*.fbx
+#*.fbx
 
 # Ignore any file with a .lock extension
-*.lock
+#*.lock
 
 
 # Ignore Unity Library folder
 Library/
-.vs/
+#.vs/
