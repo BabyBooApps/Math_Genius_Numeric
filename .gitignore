@@ -23,8 +23,8 @@
 #*.pdf
 #*.cubemap
 #*.rtf
-*mp3
-*.asset
+#*mp3
+#*.asset
 
 # Ignore generic 3D model files
 #*.fbx
