@@ -35,5 +35,5 @@
 
 # Ignore Unity Library folder
 Library/
-.vs/
+#.vs/
 Temp/
